@@ -1,2 +1,2 @@
 # springboot-backend
-CRUD methodszsw REST API (using springboot, intellij idea)
+CRUD methods REST API (using springboot, intellij idea)
